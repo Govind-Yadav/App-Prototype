@@ -1,6 +1,5 @@
 # App-Prototype
-<b>Internship Project - App Prototype of Gutermann Company</b>
+Internship Project - App Prototype of Gutermann Company
 # Cart Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Cart.png" width="39%" height="39%">
-&nbsp;
-<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Cart-Delete.png" width="39%" height="39%">
+<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Cart.png" width="35%" height="35%">
+<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Cart-Delete.png" width="35%" height="35%">
