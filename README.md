@@ -10,7 +10,6 @@ Internship Project - App Prototype of Gutermann Company
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Products.png" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Products2.png" width="350">
 # Google Voice Speech to Text Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/GoogleVoiceSpeech.png" width="350">
-<br><br><br>
 # Navigation Menu Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/NavigationMenu.png" width="350">
 # Specific/Single Product Layout
