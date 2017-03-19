@@ -9,7 +9,7 @@ Internship Project - App Prototype of Gutermann Company
 # Products Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Products.png" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Products2.png" width="350">
 # Registration and SignIn Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Register.png" width="250"><img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/SignIn.png" width="300">
+<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Register.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/SignIn.png" width="310">
 # Facebook and Twitter Connect Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/FacebookConnect.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/TwitterConnect.png" width="300">
 # Cart Layout
