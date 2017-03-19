@@ -10,13 +10,11 @@ Internship Project - App Prototype of Gutermann Company
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Products.png" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Products2.png" width="350">
 # Google Voice Speech to Text Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/GoogleVoiceSpeech.png" width="350">
-<h1>Navigation Menu Layout<h1>
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/NavigationMenu.png" width="300">
-<h1>Specific/Single Product Layout</h1>
+# Specific/Single Product Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/SingleProduct.png" width="300">
-<h1>Registration and SignIn Layout</h1>
+# Registration and SignIn Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Register.png" width="250"><img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/SignIn.png" width="300">
-<h1>Facebook and Twitter Connect Layout</h1>
+# Facebook and Twitter Connect Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/FacebookConnect.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/TwitterConnect.png" width="300">
-<h1>Cart Layout<h1>
+# Cart Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Cart.png" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Cart-Delete.png" width="350">
