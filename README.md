@@ -1,16 +1,24 @@
 # App-Prototype
 Internship Project - App Prototype of Gutermann Company
-# Intro Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Intro1.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Intro2.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Intro3.png" width="250">
-# OTP Screen Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/OTP%20Screen1.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/OTP%20Screen2.png" width="285">
-# Main Screen Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/MainScreen-Clothing.png" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/MainScreen-Shoes.png" width="350">
-# Products Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Products.png" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Products2.png" width="350">
-# Registration and SignIn Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Register.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/SignIn.png" width="310">
-# Facebook and Twitter Connect Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/FacebookConnect.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/TwitterConnect.png" width="300">
-# Cart Layout
-<img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Cart.png" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Cart-Delete.png" width="350">
+![cart](https://cloud.githubusercontent.com/assets/25241310/24361432/9962d164-1327-11e7-89b4-f8649e73e8ed.png)
+![cart-delete](https://cloud.githubusercontent.com/assets/25241310/24361433/9965400c-1327-11e7-84a0-a3e314b8f6f9.png)
+![facebookconnect](https://cloud.githubusercontent.com/assets/25241310/24361437/998469d2-1327-11e7-972c-77dfe07eda47.png)
+![googlevoicespeech](https://cloud.githubusercontent.com/assets/25241310/24361434/996a0a56-1327-11e7-8160-2f787746706e.png)
+![intro1](https://cloud.githubusercontent.com/assets/25241310/24361435/996d24f2-1327-11e7-867e-45734e9ef056.png)
+![intro2](https://cloud.githubusercontent.com/assets/25241310/24361436/996fb6f4-1327-11e7-92a5-a052b3e0c292.png)
+![intro3](https://cloud.githubusercontent.com/assets/25241310/24361440/99b04f7a-1327-11e7-9c66-96bf5a4af025.png)
+![logo](https://cloud.githubusercontent.com/assets/25241310/24361441/99b4d158-1327-11e7-9027-1d53cdbd11a7.png)
+![mainscreen-clothing](https://cloud.githubusercontent.com/assets/25241310/24361442/99b9f9ee-1327-11e7-9874-8f3870e11b47.png)
+![mainscreen-shoes](https://cloud.githubusercontent.com/assets/25241310/24361443/99c09240-1327-11e7-9059-e3855a58c6bb.png)
+![mainscreen-textile](https://cloud.githubusercontent.com/assets/25241310/24361444/99c64f96-1327-11e7-89cf-cf8be932e974.png)
+![navigationmenu](https://cloud.githubusercontent.com/assets/25241310/24361445/99d104ae-1327-11e7-9014-40bf529ce4a0.png)
+![orderplace](https://cloud.githubusercontent.com/assets/25241310/24361446/99fc6176-1327-11e7-9318-75a5f98030af.png)
+![otp screen1](https://cloud.githubusercontent.com/assets/25241310/24361447/9a06c6f2-1327-11e7-9ab8-5f967fdd2e80.png)
+![otp screen2](https://cloud.githubusercontent.com/assets/25241310/24361448/9a0a74d2-1327-11e7-9b50-91d8413b5d06.png)
+![products](https://cloud.githubusercontent.com/assets/25241310/24361449/9a124c02-1327-11e7-9676-2c5aa5a264dd.png)
+![products2](https://cloud.githubusercontent.com/assets/25241310/24361451/9a1bd678-1327-11e7-911b-6f5740716691.png)
+![register](https://cloud.githubusercontent.com/assets/25241310/24361452/9a1c292a-1327-11e7-99d0-62f5352b535b.png)
+![signin](https://cloud.githubusercontent.com/assets/25241310/24361453/9a48635a-1327-11e7-817d-315ff4108e9c.png)
+![singleproduct](https://cloud.githubusercontent.com/assets/25241310/24361454/9a5544f8-1327-11e7-9e56-753e0f606c9e.png)
+![twitterconnect](https://cloud.githubusercontent.com/assets/25241310/24361455/9a5c947e-1327-11e7-986c-74a4f0070626.png)
+![verificationcode](https://cloud.githubusercontent.com/assets/25241310/24361456/9a65940c-1327-11e7-824c-b88e6e4c9fe6.png)
