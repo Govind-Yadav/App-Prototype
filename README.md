@@ -1,5 +1,5 @@
 # App-Prototype
-Internship Project - App Prototype of Gutermann Company (Only Design no Code would be available due to company policy)
+Internship Project - App Prototype of Gutermann Company <span style="background-color: #FFFF00">(Only Design no Code would be available due to company policy)</span>
 # Intro Layout
 <img src = "https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Intro1.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Intro2.png" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://github.com/Govind-Yadav/App-Prototype/blob/master/Screenshots/Intro3.png" width="250">
 # OTP Screen Layout
